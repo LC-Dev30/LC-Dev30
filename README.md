@@ -93,7 +93,7 @@ Enterprise application developed for distribution workflows and operational mana
 
 <div align="center">
 
-<a href="https://linkedin.com/in/leocastillo-535b23246/" target="_blank">
+<a href="https://www.linkedin.com/in/leo-castillo-535b23246/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
